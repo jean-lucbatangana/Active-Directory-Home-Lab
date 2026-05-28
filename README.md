@@ -278,7 +278,7 @@ Opened **Group Policy Management** via Tools in Server Manager and created two G
 
 **JeanI**
 Aspiring IT Professional | Home Lab Enthusiast
-[LinkedIn Profile](#) *(add your LinkedIn URL here)*
+www.linkedin.com/in/jean-luc-batangana
 
 ---
 
